@@ -645,7 +645,11 @@
     "temperature": 26.3,
     "do": 3.6,
     "ph": 7.2,
-
+    "ammonia": 0.2
+  },
+  "00:00:00": {
+    "temperature": 25.9,
+    "do": 3.6,
     "ph": 7.1,
     "ammonia": 0.2
   },
